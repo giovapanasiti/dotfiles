@@ -1,9 +1,9 @@
 [user]
-  name = Andrea Pavoni
-  email = andrea.pavoni@gmail.com
+  name = Lorenzo Pagano
+  email = lorenzo.pagano@gmail.com
 [core]
   editor = vim
-  excludesfile = /Users/andrea/.gitignore_global
+  excludesfile = /Users/lorenzo/.gitignore_global
 [commit]
   template = ~/.git-commit-template
 [color]

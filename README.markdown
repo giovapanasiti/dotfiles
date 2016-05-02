@@ -39,6 +39,5 @@ There's a few special files in the hierarchy.
 
 ## Credits
 
-I started by forking [Stefano Verna](http://github.com/stefanoverna)'s excellent
-[dotfiles](http://github.com/stefanoverna/dotfiles).
-
+I started by forking [Andrea Pavoni](https://github.com/apeacox)'s excellent
+[dotfiles](https://github.com/apeacox/dotfiles).
