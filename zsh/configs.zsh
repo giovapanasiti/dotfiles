@@ -1,5 +1,5 @@
 # NVM
-source ~/.nvm/nvm.sh
+#source ~/.nvm/nvm.sh
 
 # tmuxinator
 [[ -s $HOME/.tmuxinator/scripts/tmuxinator ]] && source $HOME/.tmuxinator/scripts/tmuxinator
