@@ -1,9 +1,9 @@
 [user]
-  name = Lorenzo Pagano
-  email = lorenzo.pagano@gmail.com
+  name = Giovanni Panasiti
+  email = giova.panasiti@gmail.com
 [core]
   editor = vim
-  excludesfile = /Users/lorenzo/.gitignore_global
+  excludesfile = $HOME/.gitignore_global
 [commit]
   template = ~/.git-commit-template
 [color]
@@ -50,7 +50,7 @@
   tr = branch --track # g tr <local branch> <remote>/<remote branch>
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
+	path =
 [mergetool "sourcetree"]
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
